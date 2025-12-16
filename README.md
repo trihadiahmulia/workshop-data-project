@@ -1,6 +1,7 @@
 # Workshop Data Project
 Proyek latihan untuk memahami kolaborasi data menggunakan Git, Github, dan Kaggle Notebook.
-Ini adalah branch feature/setup-project-structure-2.
+Ini berada di branch feature/setup-project-structure.
+
 
 ## Tujuan
 - Memahami struktur proyek data yang baik
