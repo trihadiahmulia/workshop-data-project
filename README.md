@@ -45,12 +45,11 @@ Notebook eksplorasi data lengkap tersedia di Kaggle:
 4. Untuk berkontribusi: Buat branch baru, commit perubahan, dan buat pull request
 
 ## Best Practices
-- [v] Jangan ubah file di `data/raw/` -- gunakan `data/processed/` untuk data hasil olahan
-- [v] Dokumentasikan setiap notebook dengan markdown cells
-- [v] Gunakan nama file yang deskriptif
-- [v] Commit dengan pesan yang jelas dan singkat
-- [v] Update README seiring perkembangan proyek
+- ✅ Jangan ubah file di `data/raw/` -- gunakan `data/processed/` untuk data hasil olahan
+- ✅ Dokumentasikan setiap notebook dengan markdown cells
+- ✅ Gunakan nama file yang deskriptif
+- ✅ Commit dengan pesan yang jelas dan singkat
+- ✅ Update README seiring perkembangan proyek
 
 ## Tim Kontributor
 - [Tri Hadiah Muliawati] - Owner
-- 
